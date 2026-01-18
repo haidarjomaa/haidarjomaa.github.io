@@ -8,15 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark" # Force dark theme
+site_theme               : "dirt" # Force dark theme
 title                    : "Haidar Jomaa, MSc"
 title_separator          : "-"
 name                     : &name "Haidar Jomaa"
-description              : &description "Research in AI applied to bioinformatics and neuroscience, focusing on machine learning for healthcare and biological systems to better understand and improve human health."   # Combined and rephrased description
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "I am an MSc student in Computer Science at the American University of Beirut (AUB). My research spans core AI fields: I build machine learning and computer vision systems for disease detection in ophthalmology and dementia, develop deep sequence models for DNA, and create generative models for corneal-layer prediction. I aim to build explainable, biologically grounded AI systems guided by the view that progress is cyclical: deeper biological insight leads to better models, and better models reveal new scientific understanding."
+url                      : https://haidarj.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "haidarjomaa/haidarj.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Haidar Jomaa, MSc"
+  name             : "Haidar Jomaa"
   pronouns         : 
-  bio              : "Research in AI applied to bioinformatics and neuroscience, focusing on machine learning for healthcare and biological systems to better understand and improve human health."
+  bio              : "I am interested in the intersection of machine learning, healthcare, and biology to better understand and improve human health."
   location         : "Beirut"
   employer         : "American University of Beirut"
   uri              : # URL
@@ -66,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "haidar-jomaa"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -87,7 +86,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: ''    
   conferences:
     title: 'Conference Papers'
 

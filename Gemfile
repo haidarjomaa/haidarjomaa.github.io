@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
+  gem 'wdm'
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
+  gem "bigdecimal"
   gem 'jekyll'
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
