@@ -13,9 +13,9 @@ title                    : "Haidar Jomaa, MSc"
 title_separator          : "-"
 name                     : &name "Haidar Jomaa"
 description              : &description "I am an MSc student in Computer Science at the American University of Beirut (AUB). My research spans core AI fields: I build machine learning and computer vision systems for disease detection in ophthalmology and dementia, develop deep sequence models for DNA, and create generative models for corneal-layer prediction. I aim to build explainable, biologically grounded AI systems guided by the view that progress is cyclical: deeper biological insight leads to better models, and better models reveal new scientific understanding."
-url                      : https://haidarj.github.io 
+url                      : https://haidarjomaa.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haidarjomaa/haidarj.github.io"
+repository               : "haidarjomaa/haidarjomaa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
