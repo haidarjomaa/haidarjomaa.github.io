@@ -1,32 +1,27 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Haidar Jomaa, MSc",
+    "email": "haj26@mail.aub.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://github.com/haidarjomaa",
+    "summary": "Research in AI applied to bioinformatics and neuroscience, focusing on machine learning for healthcare and biological systems to better understand and improve human health.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beirut",
+      "countryCode": "LB",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "haidarjomaa",
+        "url": "https://github.com/haidarjomaa"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "haidar-jomaa",
+        "url": "https://www.linkedin.com/in/haidar-jomaa/"
       }
     ]
   },
@@ -64,7 +59,7 @@
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
+  "projects": [
     {
       "name": "Paper Title Number 1",
       "publisher": "Journal 1",
@@ -124,29 +119,5 @@
       "description": ""
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  
 }
