@@ -22,10 +22,10 @@ repository               : "haidarjomaa/haidarjomaa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   name             : "Haidar Jomaa"
   pronouns         : 
-  bio              : "I am interested in the intersection of machine learning, healthcare, and biology to better understand and improve human health."
+  bio              : "I'm interested in the intersection of machine learning, healthcare, and biology. I'm also interested in cognition, and using learning as a lens to study complex problems :)"
   location         : "Beirut"
   employer         : "American University of Beirut"
   uri              : # URL

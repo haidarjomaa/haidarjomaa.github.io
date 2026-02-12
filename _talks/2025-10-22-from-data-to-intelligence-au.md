@@ -3,7 +3,7 @@ title: "From Data to Intelligence"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-10-22-from-data-to-intelligence-au
-venue: "Antoine University"
+venue: "Antonine University"
 date: 2025-10-22
 location: "Lebanon"
 ---
