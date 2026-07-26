@@ -16,7 +16,11 @@ Education
 
 Research experience
 ======
-* Nov 2024: Graduate Research Assistant
+* Jun 2026: Research Collaborator - University of Toronto
+  * Developed PepFlowNet, a GFlowNet-based generative framework that constructs peptides sequentially.
+  * Supervisor: Dr. Michal Koziarski
+
+* Nov 2024: Graduate Research Assistant - American Univerity of Beirut
   * Developed deep learning models for corneal tomography analysis, including U-Net and TabNet architectures for corneal disease detection.
   * Designed machine learning pipelines achieving high diagnostic performance.
   * Built 3D-CNN models for MRI analysis to study differential privacy tradeoffs and representation learning.
@@ -28,12 +32,12 @@ Research experience
 
 Work experience
 ======
-* Sep 2024: Graduate Teaching Assistant
+* Sep 2024: Graduate Teaching Assistant - American Univerity of Beirut
   * Assisted in Operating Systems, Computer Vision, Machine Learning, and Reinforcement Learning courses.
   * Led laboratory sessions and contributed to course material development.
   * Co-developed instructional content for the AI and Data Science diploma program.
 
-* Sep 2023: Computer Vision and Deep Learning Intern
+* Sep 2023: Computer Vision and Deep Learning Intern - GEOAI
   * Maintained and deployed multiple PyTorch-based deep learning models for urban mapping.
   * Built interactive model demos using Gradio.
 
