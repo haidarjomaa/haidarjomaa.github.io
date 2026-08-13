@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MSc in Computer Science, American University of Beirut, April 2026
+* MSc in Computer Science, American University of Beirut, June 2026
 * BSc in Computer Science, Lebanese University, June 2024
 
 Research experience
