@@ -32,6 +32,11 @@ Research experience
 
 Work experience
 ======
+* Aug 2026: Part-time Instructor - American Univerity of Beirut
+  * Teaching "Programming for Digital Art" at the Computer Science department.
+  * Co-developing course materials for the Machine Learning course at the CS department.
+  * Teaching Machine Learning, Deep Learning, and Data Science courses to 100+ students for the AUB AI and Data Science diploma.
+
 * Sep 2024: Graduate Teaching Assistant - American Univerity of Beirut
   * Assisted in Operating Systems, Computer Vision, Machine Learning, and Reinforcement Learning courses.
   * Led laboratory sessions and contributed to course material development.

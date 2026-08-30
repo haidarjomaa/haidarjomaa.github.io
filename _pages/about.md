@@ -9,7 +9,7 @@ redirect_from:
 
 ### Hi — I'm Haidar 🧠🧬
 
-I recently completed my MSc in Computer Science at the American University of Beirut (AUB) advised by Dr. Rida Assaf, where my research spanned core AI fields. I'm currently conducting research with the University of Toronto in collaboration with Dr. Michal Koziarski.
+I recently completed my MSc in Computer Science at the American University of Beirut (AUB) advised by Dr. Rida Assaf, where my research spanned core AI fields. I am currently a part-time instructor at AUB for the Fall 2026–27 semester, while also conducting research with the University of Toronto in collaboration with Dr. Michal Koziarski.
 
 I build machine learning and computer vision systems for disease detection in ophthalmology and dementia, develop deep sequence models for DNA, and create generative models for corneal-layer prediction. Alongside this, I’ve proposed a novel architecture that injects spatiotemporal signals into the vanilla Transformer, and used imitation and reinforcement learning to investigate problems in combinatorics and computational geometry. These efforts earned me the 2025 Mobile Technology Tomorrow (MT2) Best Achievement Award for outstanding contributions in computer science research at AUB.
 
