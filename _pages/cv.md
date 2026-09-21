@@ -25,7 +25,6 @@ Research experience
   * Designed machine learning pipelines achieving high diagnostic performance.
   * Built 3D-CNN models for MRI analysis to study differential privacy tradeoffs and representation learning.
   * Engineered novel curvature-based indices now used clinically at AUB Medical Center.
-  * Built a lightweight 1D-CNN variant caller with significantly reduced parameter count.
   * Developed a large-scale Transformer model with spatiotemporal attention, achieving state-of-the-art internal results.
   * Designed reinforcement- and imitation-learning methods for approximating convex flip distance in graph theory.
   * Supervisor: Dr. Rida Assaf, Dr. Amer Abdo Mouawad
